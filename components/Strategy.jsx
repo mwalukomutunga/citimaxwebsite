@@ -40,7 +40,7 @@ const Strategy = () => {
                 </div>
                 <div className="feature-step-info">
                   <h6 className="feature-step-title">Software development</h6>
-                  <p>We develop and management information system integrates areas such as planning, purchasing, inventory, sales, marketing, finance and human resources</p>
+                  <p>We provide cloud business management software, offering a broad suite of applications including financials/enterprise resource planning (ERP), customer relationship management (CRM), e-commerce, omnichannel commerce, and professional services</p>
                 </div>
               </div>
             </div>

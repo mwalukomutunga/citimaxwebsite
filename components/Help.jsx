@@ -31,7 +31,7 @@ const Help = () => {
                   </div>
                   <div className="col-md-8 col-lg-9">
                     <h6 className="mb-1">Weather systems</h6>
-                    <p className="small mb-0">This is the beginning of creating the life that you want to live.</p>
+                    <p className="small mb-0">We survey to better understand client needs and shape possible options</p>
                   </div>
                 </div>
                 <div className="progress mt-3" style={{height: '7px'}}>
@@ -45,7 +45,7 @@ const Help = () => {
                   </div>
                   <div className="col-md-8 col-lg-9">
                     <h6 className="mb-1">General supplies</h6>
-                    <p className="small mb-0">Know what the future holds for you as a result of the choice you can make today.</p>
+                    <p className="small mb-0">We help suppliers service clients, which they cannot on their own.</p>
                   </div>
                 </div>
                 <div className="progress mt-3" style={{height: '7px'}}>

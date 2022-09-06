@@ -22,20 +22,25 @@ const PTX = () => {
                   </div>
                   <img
                     className="img-fluid rounded mt-4"
-                    src="/05.jpg"
+                    src="/03.jpg"
                     alt="logo"
                   />
                 </div>
                 <div className="col-sm-6 mt-sm-5 mt-0">
                   <img
                     className="img-fluid rounded mt-0 mt-sm-4 mb-1"
-                    src="/06.jpg"
+                    src="/05.jpg"
                     alt="logo"
                   />
                   <div className="counter bg-dark p-4 p-sm-5 mt-4 counter-with-plus">
                     <div className="counter-item">
                       <div className="counter-content">
-                        <span
+                      <img
+                    className="img-fluid rounded mt-4"
+                    src="/09.jpg"
+                    alt="logo"
+                  />
+                        {/* <span
                           className="timer text-white display-4"
                           data-to="2730"
                           data-speed="1000"
@@ -55,7 +60,7 @@ const PTX = () => {
                         >
                           <i className="btn-icon fas fa-long-arrow-alt-right"></i>
                           <span>Read more</span>
-                        </a></Link>
+                        </a></Link> */}
                       </div>
                     </div>
                   </div>

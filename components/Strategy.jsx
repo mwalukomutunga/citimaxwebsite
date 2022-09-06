@@ -17,8 +17,8 @@ const Strategy = () => {
                   <i className="flaticon-checklist"></i>
                 </div>
                 <div className="feature-step-info">
-                  <h6 className="feature-step-title">Vehicle Tracking</h6>
-                  <p>We collect data, process it and turn it into knowledge that allows us to provide proactive value to our partners and customers.</p>
+                  <h6 className="feature-step-title">Conference systems</h6>
+                  <p>One-stop-shop for all your conferencing needs featuring the industry’s broadest portfolio with models designed for large rooms, standard conference rooms and private offices.</p>
                 </div>
               </div>
             </div>

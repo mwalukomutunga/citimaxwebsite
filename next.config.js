@@ -4,9 +4,8 @@ const nextConfig = {
   basePath: '',
   compress: false,
   swcMinify: true,
-  eslint: {
-    // Warning: This allows production builds to successfully complete even if
-    // your project has ESLint errors.
+  outDir: "./output",
+  eslint: {    
     ignoreDuringBuilds: true,
   },
 }

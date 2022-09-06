@@ -102,7 +102,7 @@ const Header = () => {
                     </Link>
                   </li>
                   <li className="nav-item dropdown">
-                    <Link href="/about">
+                    <Link href="/#about">
                       <a
                         className="nav-link"
                         aria-haspopup="true"

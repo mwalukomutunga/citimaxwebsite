@@ -4,7 +4,6 @@ const nextConfig = {
   basePath: '',
   compress: false,
   swcMinify: true,
-  outDir: "./output",
   eslint: {    
     ignoreDuringBuilds: true,
   },

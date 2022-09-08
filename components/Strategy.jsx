@@ -5,7 +5,7 @@ const Strategy = () => {
           <div className="row justify-content-center">
             <div className="col-lg-7">
               <div className="section-title text-center">
-                <span className="pre-title">What we do </span>
+                {/* <span className="pre-title">What we do </span> */}
                 <h2>Our services</h2>
               </div>
             </div>

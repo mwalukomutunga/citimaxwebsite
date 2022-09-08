@@ -15,7 +15,7 @@ const Services = () => {
                   {/* <i className="flaticon-server"></i> */}
                 </div>
                 <div className="feature-info-content">
-                  <h6 className="feature-info-title">Fibre optics</h6>
+                  <h6 className="feature-info-title">FIBRE OPTICS</h6>
                   <p>We have specialised in planning, implementing, maintaining, and repairing fibre optic telecommunications infrastructure for network operators.</p>
                   {/* <a href="index-03.html#" className="btn btn-primary btn-block btn-wi"><span>Read More</span></a> */}
                 </div>
@@ -41,7 +41,7 @@ const Services = () => {
                   <i className="flaticon-flag"></i>
                 </div>
                 <div className="feature-info-content">
-                  <h6 className="feature-info-title">Networking</h6>
+                  <h6 className="feature-info-title">NETWORKING</h6>
                   <p>We provide cost-effective network Internet solution for small to medium sized companies</p>
                   {/* <a href="index-03.html#" className="btn btn-primary btn-block btn-wi"><span>Read More</span></a> */}
                 </div>

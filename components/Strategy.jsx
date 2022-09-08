@@ -6,7 +6,7 @@ const Strategy = () => {
             <div className="col-lg-7">
               <div className="section-title text-center">
                 {/* <span className="pre-title">What we do </span> */}
-                <h2>Our services</h2>
+                <h2>More services..</h2>
               </div>
             </div>
           </div>

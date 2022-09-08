@@ -8,13 +8,14 @@ const Help = () => {
                 <div className="col-sm-5 mb-sm-0 mb-4">
                   <img className="img-fluid rounded mb-0 mb-sm-2" src="/08.jpg" alt="logo"/>
                   <div className="bg-primary rounded pie-chart pie-chart-percentage text-center mt-4">
-                    <div className="round-chart" data-percent="65" data-color="#ffffff" data-trackcolor="#212c6b"> <h1>100</h1><span className="percent"></span></div>
+                    {/* <div className="round-chart" data-percent="65" data-color="#ffffff" data-trackcolor="#212c6b"> <h1>100</h1><span className="percent"></span></div>
                    
-                    <h6 className="chart-title text-white mb-0">Commitment</h6>
+                    <h6 className="chart-title text-white mb-0">Commitment</h6> */}
+                      <img className="img-fluid rounded" src="/aws.jpg" alt="logo"/>
                   </div>
                 </div>
                 <div className="col-sm-7">
-                  <img className="img-fluid rounded" src="07.jpg" alt="logo"/>
+                  <img className="img-fluid rounded" src="/07.jpg" alt="logo"/>
                 </div>
               </div>
             </div>

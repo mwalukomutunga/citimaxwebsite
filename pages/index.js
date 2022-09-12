@@ -1,3 +1,4 @@
+import About from "../components/About";
 import ActionBox from "../components/ActionBox";
 import Help from "../components/Help";
 import PTX from "../components/Ptx";
@@ -9,7 +10,9 @@ export default function Home() {
   return (
     <>
       <Slider />
-      <PTX />
+      <About/>
+      <ActionBox />
+      <PTX />      
       <ActionBox />
       <Help />
       <Services/>

@@ -63,22 +63,22 @@ const Layout = ({ children }) => {
               <div className="footer-link">
                 <ul className="list-unstyled mb-0">
                   <li>
-                    <Link href="/">
+                    <Link href="/about">
                       <a>About</a>
                     </Link>
                   </li>
                   <li>
-                    <Link href="/">
+                    <Link href="/#about">
                       <a>Who we are</a>
                     </Link>
                   </li>
                   <li>
-                    <Link href="/">
+                    <Link href="/portfolio">
                       <a>Portfolio</a>
                     </Link>
                   </li>
                   <li>
-                    <Link href="/">
+                    <Link href="/contact">
                       <a>Locations</a>
                     </Link>
                   </li>

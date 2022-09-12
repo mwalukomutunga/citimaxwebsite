@@ -11,7 +11,7 @@ const Slider = () => {
                   <div className="banner-content">
                     <div className="content">
                       <h2 className="animated mb-4 text-white h1" data-swiper-animation="fadeInUp" data-duration="2.0s" data-delay="1.0s">Citimax <span className="text-primary">Technologies</span> Limited</h2>
-                      <div className="animated lead text-white" data-swiper-animation="fadeInUp" data-duration="2.0s" data-delay="1.0s">Citimax Technologies Limited is a robust, professional IT solutions Company dealing with networking, weather Systems, software systems and general ICT solutions in all fields.</div>
+                      <div className="animated lead text-white" data-swiper-animation="fadeInUp" data-duration="2.0s" data-delay="1.0s">Citimax Technologies Ltd is an incorporated IT firm, registered to provide professional IT solutions to individuals, businesses, and government institutions. At Citimax we bring Information Technology support straight to your doorstep</div>
                       <p className="animated text-white mt-3 mb-4" data-swiper-animation="fadeInUp" data-duration="2.0s" data-delay="1.5s"></p>
                       {/* <div className="animated video-btn d-flex align-items-center" data-swiper-animation="fadeInUp" data-duration="2.0s" data-delay="2.0s">
                         <a className="btn-icon btn-lg bg-white rounded-circle btn-animation popup-youtube" href="https://www.youtube.com/embed/rGtcmKIZi5c">

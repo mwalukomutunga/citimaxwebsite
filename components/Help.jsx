@@ -31,7 +31,7 @@ const Help = () => {
                     <span className="display-4 mb-0 text-dark font-weight-bold">76%</span>
                   </div>
                   <div className="col-md-8 col-lg-9">
-                    <h6 className="mb-1">Weather systems</h6>
+                    <h6 className="mb-1">Meteorological Systems, Satellite and Photogrammetry Equipment’s  </h6>
                     <p className="small mb-0">We survey to better understand client needs and shape possible options</p>
                   </div>
                 </div>
@@ -45,7 +45,7 @@ const Help = () => {
                     <span className="display-4 mb-0 text-dark font-weight-bold">93%</span>
                   </div>
                   <div className="col-md-8 col-lg-9">
-                    <h6 className="mb-1">General supplies</h6>
+                    <h6 className="mb-1">Procurement and General Supplies</h6>
                     <p className="small mb-0">We help suppliers service clients, which they cannot on their own.</p>
                   </div>
                 </div>

@@ -28,8 +28,8 @@ const Strategy = () => {
                   <i className="flaticon-photography"></i>
                 </div>
                 <div className="feature-step-info">
-                  <h6 className="feature-step-title">Weather Stations</h6>
-                  <p>Looking for that special weather instrument, barometer or weather station? Then you have come to the right place! With more weather equipment with latest technology</p>
+                  <h6 className="feature-step-title">Meteorological Systems, Satellite and Photogrammetry Equipment’s  </h6>
+                  <p>Our technology and electronic division designs and develops a robust range of asset management and monitoring systems using GPS satellite positioning, GSM cellular communication systems and other advanced communication and sensory technologies. </p>
                 </div>
               </div>
             </div>

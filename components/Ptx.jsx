@@ -73,7 +73,7 @@ const PTX = () => {
                 <h2>Innovation, Creativity and Business growth</h2>
               </div>
               <p className="mb-4">
-              Citimax Technologies Limited has heavily invested in research in the field of IT to keep pace with fast evolving technology. We have also partnered with leading IT support firms in the country and internationally to ensure that we give our clients nothing short of the best.
+              The Company maintains in-house state of the art research computer laboratory that facilitate the rapid development of high-quality, advanced ICT and telecommunication systems. We have also partnered with leading IT support firms in the country and internationally to ensure that we give our clients nothing short of the best.
               </p>
               <div className="row">
                 <div className="col-sm-6 mb-sm-5 mb-3 mt-2">
@@ -82,7 +82,7 @@ const PTX = () => {
                       <i className="fas fa-check"></i>We invest in research
                     </li>
                     <li>
-                      <i className="fas fa-check"></i>Utilize locally available resources
+                      <i className="fas fa-check"></i>Integrity
                     </li>
                     <li>
                       <i className="fas fa-check"></i>We work with local businesses 
@@ -92,10 +92,10 @@ const PTX = () => {
                 <div className="col-sm-6 mb-sm-5 mb-3 mt-2">
                   <ul className="list">
                     <li>
-                      <i className="fas fa-check"></i>Committed team
+                      <i className="fas fa-check"></i>Honesty
                     </li>
                     <li>
-                      <i className="fas fa-check"></i>Timely delivery
+                      <i className="fas fa-check"></i>Prompt Delivery
                     </li>
                     <li>
                       <i className="fas fa-check"></i>Build great relationships

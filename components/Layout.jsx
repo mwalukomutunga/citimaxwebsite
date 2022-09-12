@@ -94,22 +94,22 @@ const Layout = ({ children }) => {
                 <ul className="list-unstyled mb-0">
                   <li>
                     <Link href="/#services">
-                      <a>Weather systems</a>
+                      <a>Meteorological Systems, Satellite and Photogrammetry Equipment’s</a>
                     </Link>
                   </li>
                   <li>
                     <Link href="/#services">
-                      <a>Software </a>
+                      <a>Software design and development </a>
                     </Link>
                   </li>
                   <li>
                     <Link href="/#services">
-                      <a>Vehicle tracking & Fuel management</a>
+                      <a>Conference systems</a>
                     </Link>
                   </li>
                   <li>
                     <Link href="/#services">
-                      <a>Supplies</a>
+                      <a>Procurement and General Supplies</a>
                     </Link>
                   </li>
                   <li>

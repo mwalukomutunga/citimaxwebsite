@@ -31,12 +31,11 @@ const Portfolio = () => {
     <div className="container">
       <div className="row">
         <div className="col-md-4 col-xl-3">
-          <ul className="list-unstyled vertical-menu border border-2 rounded p-3">
-            <li><a className="active" href="service-single.html#"><span>Business model evaluation</span></a></li>
-            <li><a href="service-single.html#"><span>Competition analysis</span></a></li>
-            <li><a href="service-single.html#"><span>Organizational Management</span></a></li>
-            <li><a href="service-single.html#"><span>Risk management</span></a></li>
-            <li><a href="service-single.html#"><span>Sales and marketing</span></a></li>
+          <ul className="list-unstyled vertical-menu border border-2 rounded p-3">           
+            <li><Link  href="/#services"><a><span>Procurement and General Supplies</span></a></Link></li>
+            <li><Link  href="/#services"><a><span>Meteorological Systems, Satellite and Photogrammetry </span></a></Link></li>
+            <li><Link  href="/#services"><a><span>Software Development ,Deployment and support /ERP Solutions </span></a></Link></li>
+            <li><Link  href="/#services"><a><span>ICT Services & Solutions </span></a></Link></li>
           </ul>
           <div className="bg-dark rounded p-4 mb-md-0 mb-5">
             <span className="lead text-primary font-weight-bold">Are you looking for a customizing service? Please contact us</span>

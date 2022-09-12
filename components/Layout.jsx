@@ -99,6 +99,11 @@ const Layout = ({ children }) => {
                   </li>
                   <li>
                     <Link href="/#services">
+                      <a>ICT Services & Solutions </a>
+                    </Link>
+                  </li>
+                  <li>
+                    <Link href="/#services">
                       <a>Software design and development </a>
                     </Link>
                   </li>
